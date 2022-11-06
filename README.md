@@ -6,7 +6,7 @@
   package main
   
   import (
-    "dictributedConfigLibrary"
+    "cfglib"
   )
   
   func main() {

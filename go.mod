@@ -1,4 +1,4 @@
-module dictributedConfigLibrary
+module cfglib
 
 go 1.18
 

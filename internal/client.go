@@ -1,8 +1,8 @@
 package internal
 
 import (
+	"cfglib/internal/delivery/proto"
 	"context"
-	"dictributedConfigLibrary/internal/delivery/proto"
 )
 
 type ConfigServiceClient struct {

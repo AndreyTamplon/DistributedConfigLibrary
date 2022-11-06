@@ -1,9 +1,9 @@
-package dictributedConfigLibrary
+package cfglib
 
 import (
-	"dictributedConfigLibrary/internal"
-	"dictributedConfigLibrary/internal/delivery/proto"
-	"dictributedConfigLibrary/internal/entity"
+	"cfglib/internal"
+	"cfglib/internal/delivery/proto"
+	"cfglib/internal/entity"
 	"log"
 
 	"google.golang.org/grpc"

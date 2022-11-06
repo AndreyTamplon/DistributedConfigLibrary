@@ -10,7 +10,7 @@
   )
   
   func main() {
-    c := dictributedConfigLibrary.NewConfigServiceWrapper()
+    c := cfglib.NewConfigServiceWrapper()
     err := c.Connect(8084, "localhost")
     if err != nil {
       return
